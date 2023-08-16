@@ -7,7 +7,7 @@ Implementations of Machine Learning Algorithms using only NumPy (and sklearn for
 ![issues](https://img.shields.io/github/issues/YourUsername/FoundationalMLForge)
 ![license](https://img.shields.io/github/license/YourUsername/FoundationalMLForge)
 
-Welcome to `FoundationalMLForge`! This repository contains handcrafted implementations of fundamental machine learning algorithms from scratch, built using pure Python.
+Welcome to `MLForge`! This repository contains handcrafted implementations of fundamental machine learning algorithms from scratch, built using pure Python.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to `FoundationalMLForge`! This repository contains handcrafted implement
 
 ## Introduction
 
-Understanding the inner workings of machine learning algorithms is crucial for every ML enthusiast. `FoundationalMLForge` aims to provide clear, commented, and educational code for a wide range of algorithms, acting as a foundation for both learning and further development.
+Understanding the inner workings of machine learning algorithms is crucial for every ML enthusiast. `MLForge` aims to provide clear, commented, and educational code for a wide range of algorithms, acting as a foundation for both learning and further development.
 
 ## Algorithms
 
