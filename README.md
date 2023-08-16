@@ -1,7 +1,7 @@
 # ML-Forge
 Implementations of Machine Learning Algorithms using only NumPy (and sklearn for datasets)
 
-# FoundationalMLForge 🛠️
+# MLForge 🛠️
 
 ![build status](https://img.shields.io/badge/build-passing-brightgreen)
 ![issues](https://img.shields.io/github/issues/YourUsername/FoundationalMLForge)
